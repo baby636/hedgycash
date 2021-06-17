@@ -33,7 +33,7 @@
     "redux": "^4.0.5",
     "redux-loop": "^6.0.1",
     "redux-sessionstorage": "^0.4.0",
-    "typescript": "3.8.3"
+    "typescript": "4.3.2"
   },
   "scripts": {
     "start": "react-scripts start",
