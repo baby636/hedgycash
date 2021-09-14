@@ -15,7 +15,7 @@
   "homepage": "https://github.com/BCHDEVCON3/hedgycash#readme",
   "dependencies": {
     "@generalprotocols/anyhedge": "^0.8.0",
-    "husky": "^4.2.5",
+    "husky": "^4.3.7",
     "lint-staged": "^10.3.0",
     "prettier": "^2.1.1",
     "pretty-quick": "^3.0.0"
