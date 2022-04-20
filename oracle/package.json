@@ -30,6 +30,6 @@
   "homepage": "https://github.com/thr0wn/pitico.oracle#readme",
   "devDependencies": {
     "serverless": "^1.79.0",
-    "serverless-offline": "^6.7.0"
+    "serverless-offline": "^8.0.0"
   }
 }
