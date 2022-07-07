@@ -21,7 +21,7 @@
     "axios": "^0.20.0",
     "bitcoincom-link": "^0.1.10-ping02",
     "ionicons": "^5.0.0",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "qrcode.react": "^1.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
