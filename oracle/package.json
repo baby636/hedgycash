@@ -17,8 +17,8 @@
     "axios": "^0.20.0",
     "big.js": "^5.2.2",
     "bitbox-sdk": "^8.11.2",
-    "bitcore-lib-cash": "^8.22.0",
-    "mongoose": "^5.10.0",
+    "bitcore-lib-cash": "^10.0.28",
+    "mongoose": "^5.12.4",
     "validator": "^7.2.0"
   },
   "keywords": [],
@@ -30,6 +30,6 @@
   "homepage": "https://github.com/thr0wn/pitico.oracle#readme",
   "devDependencies": {
     "serverless": "^1.79.0",
-    "serverless-offline": "^6.7.0"
+    "serverless-offline": "^13.7.0"
   }
 }
