@@ -21,7 +21,7 @@
         "big.js": "^5.2.2",
         "bitbox-sdk": "^8.11.2",
         "bitcore-lib-cash": "^8.22.2",
-        "mongoose": "^5.10.3",
+        "mongoose": "^8.8.3",
         "validator": "^13.1.1"
     },
     "keywords": [],
@@ -32,7 +32,7 @@
     },
     "homepage": "https://github.com/thr0wn/pitico.oracle#readme",
     "devDependencies": {
-        "serverless": "^1.79.0",
-        "serverless-offline": "^6.7.0"
+        "serverless": "^3.0.0",
+        "serverless-offline": "^13.9.0"
     }
 }
