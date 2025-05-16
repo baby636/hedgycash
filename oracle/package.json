@@ -17,7 +17,7 @@
     "axios": "^0.20.0",
     "big.js": "^5.2.2",
     "bitbox-sdk": "^8.11.2",
-    "bitcore-lib-cash": "^8.22.0",
+    "bitcore-lib-cash": "^10.0.28",
     "mongoose": "^5.10.0",
     "validator": "^7.2.0"
   },
